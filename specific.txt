@@ -3,7 +3,7 @@
 0.0.0.0 invidious.slipfox.xyz
 0.0.0.0 vid.puffyan.us
 0.0.0.0 invidious.io
-# 0.0.0.0 yewtu.be www.youtube.com yt.artemislena.eu invidious.projectsegfau.lt invidious.privacydev.net vid.priv.au iv.melmac.space iv.ggtyler.dev invidious.lunar.icu inv.zzls.xyz inv.tux.pizza invidious.protokolla.fi onion.tube inv.in.projectsegfau.lt inv.citw.lgbt yt.oelrichsgarcia.de invidious.no-logs.com invidious.io.lol iv.nboeck.de invidious.private.coffee yt.drgnz.club invidious.asir.dev iv.datura.network invidious.fdn.fr anontube.lvkaszus.pl invidious.perennialte.ch yt.cdaut.de invidious.drgns.space inv.us.projectsegfau.lt invidious.einfachzocken.eu invidious.nerdvpn.de # invidious.incogniweb.net
+0.0.0.0 yewtu.be www.youtube.com yt.artemislena.eu invidious.projectsegfau.lt invidious.privacydev.net vid.priv.au iv.melmac.space iv.ggtyler.dev invidious.lunar.icu inv.zzls.xyz inv.tux.pizza invidious.protokolla.fi onion.tube inv.in.projectsegfau.lt inv.citw.lgbt yt.oelrichsgarcia.de invidious.no-logs.com invidious.io.lol iv.nboeck.de invidious.private.coffee yt.drgnz.club invidious.asir.dev iv.datura.network invidious.fdn.fr anontube.lvkaszus.pl invidious.perennialte.ch yt.cdaut.de invidious.drgns.space inv.us.projectsegfau.lt invidious.einfachzocken.eu invidious.nerdvpn.de # invidious.incogniweb.net
 
 # Libreddit
 0.0.0.0 reddit.com
@@ -88,7 +88,7 @@
 0.0.0.0 teddit.encrypted-data.xyz
 0.0.0.0 i.opnxng.com
 0.0.0.0 teddit.tokhmi.xyz
-# 0.0.0.0 youtube.com
+0.0.0.0 youtube.com
 0.0.0.0 teddit.garudalinux.org
 0.0.0.0 teddit.privacytools.io
 0.0.0.0 td.vern.cc
@@ -104,9 +104,7 @@
 0.0.0.0 plainproxies.com
 0.0.0.0 hide.me
 0.0.0.0 www.croxyproxy.com
-0.0.0.0 phoronix.com
 0.0.0.0 socialblade.com
 0.0.0.0 www.viewstats.com
 0.0.0.0 vidiq.com
 0.0.0.0 www.tomshardware.com
-0.0.0.0 www.phoronix.com
